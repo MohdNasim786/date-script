@@ -1,1 +1,3 @@
-# date-script
+#!/bin/sh
+
+echo "Date is $(date)"
